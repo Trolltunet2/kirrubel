@@ -1,1 +1,1 @@
-er dette sigma?
+print ("er dette sigma?")
