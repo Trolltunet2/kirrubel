@@ -6,3 +6,5 @@ if peab > 2:
     print("en peab hva?!!?!")
 else:
     peab +1
+
+#ja
